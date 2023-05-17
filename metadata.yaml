@@ -1,0 +1,36 @@
+_repo: History-of-Christian-names_70419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2023-03-30'
+identifiers:
+  gutenberg: '70419'
+  lccn: 04022496
+language: en
+pgterms:marc904: https://archive.org/details/cu31924031230182
+pgterms:marc905: 20201006171951yonge
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+production_note: MWS, KD Weeks and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Names, Personal'
+- !lcc 'CS'
+- GITenberg
+title: History of Christian names
+url: http://www.gutenberg.org/ebooks/70419
